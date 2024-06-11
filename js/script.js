@@ -1,5 +1,6 @@
 const links = [
-    { name: "Dev.To", url: "https://dev.to/codebymarcos" },
+    { name: "CodePen", url: "https://codepen.io/codebymarcos" },
+    { name: "DEV Community", url: "https://dev.to/codebymarcos" },
     { name: "GitHub", url: "https://github.com/marcosokamoto" },
     { name: "Instagram", url: "https://www.instagram.com/codebymarcos/" },
     { name: "Threads", url: "https://www.threads.net/@codebymarcos" }
